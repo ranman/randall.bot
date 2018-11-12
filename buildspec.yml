@@ -8,6 +8,7 @@ phases:
             - dpkg -i hugo_0.51_Linux-64bit.deb
     build:
         commands:
+            - git submodule update --init --recursive
             - hugo
             - echo "S3 Upload Beginning"
             - aws s3 sync public/ s3://randall.bot/ --region us-east-1 --delete --sse AES256
