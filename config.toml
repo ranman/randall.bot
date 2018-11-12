@@ -1,0 +1,4 @@
+baseURL = "https://randall.bot/"
+languageCode = "en-us"
+title = "Randall Hunt"
+theme = "hugo-uilite"

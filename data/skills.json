@@ -1,0 +1,12 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"Puns": "100",
+		"AWS" : "90",
+		"Python" : "90",
+		"Databases": "70",
+		"Machine Learning" : "50",
+		"C/C++" : "70",
+		"Networking": "70"
+	}
+}

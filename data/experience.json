@@ -1,0 +1,30 @@
+{
+	"title": "Experience",
+	"experience": [
+		{
+			"timeperiod": "July 2016 - Present",
+			"company": "Amazon Web Services",
+			"description": "Building more clouds."
+		},
+		{
+			"timeperiod": "June 2015 - June 2016",
+			"company": "SpaceX 🚀",
+			"description": "Built more spaceships."
+		},
+		{
+			"timeperiod": "July 2014 - June 2015",
+			"company": "Amazon Web Services",
+			"description": "Built some clouds."
+		},
+		{
+			"timeperiod": "October 2011 - July 2014",
+			"company": "MongoDB",
+			"description": "Built some databases."
+		},
+		{
+			"timeperiod": "2009 - 2011",
+			"company": "NASA 🚀",
+			"description": "Built some spaceships."
+		}
+	]
+}
