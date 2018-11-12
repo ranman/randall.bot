@@ -1,0 +1,17 @@
+version: 0.2
+
+phases:
+    install:
+        commands:
+            - pip install Pygments
+            - sudo apt-get install hugo
+    build:
+        commands:
+            - hugo
+            - echo "S3 Upload Beginning"
+            - aws s3 sync public/ s3://randall.bot/ --region us-east-1 --delete --sse AES256
+            - echo "S3 Upload Complete"
+
+    post_build:
+        commands:
+            - echo "Build complete"
