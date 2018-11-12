@@ -4,7 +4,8 @@ phases:
     install:
         commands:
             - pip install Pygments
-            - sudo apt-get install hugo
+            - wget https://github.com/gohugoio/hugo/releases/download/v0.51/hugo_extended_0.51_Linux-64bit.deb
+            - dpkg -i hugo_extended_0.51_Linux-64bit.deb
     build:
         commands:
             - hugo
