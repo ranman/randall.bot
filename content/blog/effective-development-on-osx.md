@@ -11,14 +11,14 @@ title = "Effective Development On A Mac"
 A lot of developers use Macs these days because it's the hot new thing. Unfortunately Macs are not the greatest development platform in the world out of the box. You need to do just a little bit of work to take your fancy new Macbook and turn it into a lean, mean, bug-crushing machine.
 
 
-#The Tools
+# The Tools
 
 1. [Homebrew](http://brew.sh/): OS X's missing package manager
 1. [iTerm](http://www.iterm2.com/): A better and more powerful terminal
 1. [Slate](https://github.com/jigish/slate): or another window manager
 
 
-##Homebrew
+## Homebrew
 
 [Homebrew](http://brew.sh/) is the missing package manager of OS X. It's drastically better and more actively developed than its two competitors [fink](http://www.finkproject.org/) and [ports](http://www.macports.org/). If you are coming from a Linux world you can think of brew as `yum`, `apt-get`, `rpm`, or `emerge`.
 
@@ -38,7 +38,7 @@ We can then install a package as simply as: `brew install python`.
 
 We can see what options a package exposes with `brew info python`.
 
-##iTerm
+## iTerm
 
 This one is easy to do. [Download](http://www.iterm2.com/#/section/downloads).
 
@@ -50,7 +50,7 @@ Have a link or path in the terminal you want to open in finder or your browser? 
 
 You can also open anything with whatever OS X thinks the default tool is with the `open` command.
 
-##Slate
+## Slate
 
 Do you frequently use your mouse to move windows around? Stop it. Every time you do that you're wasting time trying to get the OS to do something that it should be smart enough to do on its own.
 

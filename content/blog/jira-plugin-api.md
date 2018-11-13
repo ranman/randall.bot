@@ -19,7 +19,7 @@ JIRA's UPM Documenation: https://ecosystem.atlassian.net/wiki/display/UPM/UPM+RE
 
 
 
-###Programatically Disable Modules You Don't Need###
+### Programatically Disable Modules You Don't Need
 
 To do this we'll make a simple [PUT](http://stackoverflow.com/a/630475/240004) request that changes the state of individual plugins or modules to disabled instead of enabled. Simple right? Sort of.
 
@@ -66,13 +66,13 @@ requests.put(
 
 The API is actually very RESTful and you can discover a lot of the functionality by making GET requests to the same endpoints we're sending these PUT requests. I'd say this is one of JIRA's strong points.
 
-###Uploading A New Module###
+### Uploading A New Module
 
 Luckily installing new plugins is similarly straightforward -- with one additional caveat. JIRA's universal plugin manager (UPM) requires you to pass in a request/session/authentication token with your request.
 
 Let's say I have a module called `my-fancy-plugin.jar` that I've made with `atlas-package`. I can easily upload this with a simple python script like the one below:
 
-```prettyprint lang-python
+```python
 import requests
 from requests.auth import HTTPBasicAuth
 auth = HTTPBasicAuth('admin', 'admin')

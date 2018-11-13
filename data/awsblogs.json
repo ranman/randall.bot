@@ -1,0 +1,344 @@
+[{
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/08/13/enable_tracing-1024x478.png",
+        "url": "https://aws.amazon.com/blogs/aws/apigateway-xray/",
+        "description": "Today, we’re adding two new features to AWS X-Ray: support for Amazon API Gateway, making it easier to trace and analyze requests as they travel through your APIs to the underlying services, and support for centralized sampling rules in the AWS X-Ray console, SDKs, and API.",
+        "title": "AWS X-Ray Now Supports Amazon API Gateway and New Sampling Rules API",
+        "date": "2018-09-06T12:13:09+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/08/21/cfn_macro_use-1024x557.png",
+        "url": "https://aws.amazon.com/blogs/aws/cloudformation-macros/",
+        "description": "Today I’m really excited to show you a powerful new feature of AWS CloudFormation, we’re calling Macros. Macros allow developers to extend the native syntax of CloudFormation templates by allowing AWS Lambda powered transformations on templates.",
+        "title": "Extending AWS CloudFormation with AWS Lambda Powered Macros",
+        "date": "2018-09-06T11:47:25+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/08/16/enhanced_fan-out-1024x504.png",
+        "url": "https://aws.amazon.com/blogs/aws/kds-enhanced-fanout/",
+        "description": "We launched a new feature for Amazon Kinesis Data Streams (KDS) called Enhanced Fan-out, which enables developers to take advantage of a new low latency HTTP/2 data retrieval API. This new API allows customers to attach more applications to a single data stream while maintaining read performance across all of the applications consuming the stream. The HTTP/2 interface reduces the latency between ingestion of data and consumption of data by a consumer application by about 75%, down to less than 50 milliseconds.",
+        "title": "Amazon Kinesis Data Streams Adds Enhanced Fan-Out and HTTP/2 for Faster Streaming",
+        "date": "2018-08-21T10:00:34+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/08/08/2_create-1024x548.png",
+        "url": "https://aws.amazon.com/blogs/aws/aurora-serverless-ga/",
+        "description": "You may have heard of Amazon Aurora, a custom built MySQL and PostgreSQL compatible database born and built in the cloud. You may have also heard of serverless, which allows you to build and run applications and services without thinking about instances. These are two pieces of the growing AWS technology story that we’re really excited to be working on. Last year, at AWS re:Invent we announced a preview of a new capability for Aurora called Aurora Serverless. Today, I’m pleased to announce that Aurora Serverless for Aurora MySQL is generally available. Aurora Serverless is on-demand, auto-scaling, serverless Aurora. You don’t have to think about instances or scaling and you pay only for what you use.",
+        "title": "Aurora Serverless MySQL Generally Available",
+        "date": "2018-08-09T17:10:46+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/07/20/2_create_job-1015x1024.png",
+        "url": "https://aws.amazon.com/blogs/aws/sagemaker-nysummit2018/",
+        "description": "At the New York Summit a few days ago we launched two new features: a new batch inference feature called Batch Transform that allows customers to make predictions in non-real time scenarios across petabytes of data and Pipe Input Mode support for TensorFlow containers. SageMaker remains one of my favorite services and we’ve covered it […]",
+        "title": "Amazon SageMaker Adds Batch Transform Feature and Pipe Input Mode for TensorFlow Containers",
+        "date": "2018-07-20T16:15:58+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/07/17/trans-1024x948.png",
+        "url": "https://aws.amazon.com/blogs/aws/amazon-translate-adds-support-for-new-languages/",
+        "description": "Today I’m excited to announce that has added support for Japanese, Russian, Italian, Traditional Chinese, Turkish, and Czech! Amazon Translate is a translation API that delivers fast, high-quality, and affordable language translation. Translate was originally released in preview at in 2017 and my colleague, Tara, wrote about the service in depth. Since the initial preview, we’ve […]",
+        "title": "Amazon Translate Adds Support for Japanese, Russian, Italian, Traditional Chinese, Turkish, and Czech",
+        "date": "2018-07-17T07:16:48+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/07/13/output.gif",
+        "url": "https://aws.amazon.com/blogs/aws/amazon-kinesis-video-streams-adds-support-for-hls-output-streams/",
+        "description": "Today I’m excited to announce and demonstrate the new HTTP Live Streams (HLS) output feature for (KVS). If you’re not already familiar with KVS, Jeff covered the release for in 2017. In short, Amazon Kinesis Video Streams is a service for securely capturing, processing, and storing video for analytics and machine learning – from one […]",
+        "title": "Amazon Kinesis Video Streams Adds Support For HLS Output Streams",
+        "date": "2018-07-13T16:10:42+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/06/28/2_lambda_create-1024x676.png",
+        "url": "https://aws.amazon.com/blogs/aws/aws-lambda-adds-amazon-simple-queue-service-to-supported-event-sources/",
+        "description": "We can now use to trigger functions! This is a stellar update with some key functionality that I’ve personally been looking forward to for more than 4 years. I know our customers are excited to take it for a spin so feel free to skip to the walk through section below if you don’t want […]",
+        "title": "AWS Lambda Adds Amazon Simple Queue Service to Supported Event Sources",
+        "date": "2018-06-28T10:43:54+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/06/26/comprehend_4-1024x478.png",
+        "url": "https://aws.amazon.com/blogs/aws/amazon-comprehend-launches-asynchronous-batch-operations/",
+        "description": "My colleague Jeff Barr last wrote about , a service for discovering insights and relationships in text, when it launched at in 2017. Today, after iterating on customer feedback, we’re releasing a new asynchronous batch inferencing feature for Comprehend. Asynchronous batch operations work on documents stored in buckets and can perform all of the normal […]",
+        "title": "Amazon Comprehend Launches Asynchronous Batch Operations",
+        "date": "2018-06-27T16:15:06+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/05/29/redis_1-1024x879.png",
+        "url": "https://aws.amazon.com/blogs/aws/new-redis-4-0-compatibility-in-amazon-elasticache/",
+        "description": "makes it easy for you to set up a fully managed in-memory data store and cache with Redis or Memcached. Today we’re pleased to launch compatibility with Redis 4.0 in ElastiCache. You can now launch Redis 4.0 compatible ElastiCache nodes or clusters, in all commercial AWS regions. ElastiCache Redis clusters can scale to terabytes of […]",
+        "title": "New – Redis 4.0 Compatibility in Amazon ElastiCache",
+        "date": "2018-06-14T18:10:48+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/06/07/sagemaker_featured-1024x764.png",
+        "url": "https://aws.amazon.com/blogs/aws/sagemaker-automatic-model-tuning/",
+        "description": "Today I’m excited to announce the general availability of Amazon SageMaker Automatic Model Tuning. Automatic Model Tuning eliminates the undifferentiated heavy lifting required to search the hyperparameter space for more accurate models. This feature allows developers and data scientists to save significant time and effort in training and tuning their machine learning models. A Hyperparameter […]",
+        "title": "Amazon SageMaker Automatic Model Tuning: Using Machine Learning for Machine Learning",
+        "date": "2018-06-07T17:35:20+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/05/30/chainer-predict-ssd-1024x622.png",
+        "url": "https://aws.amazon.com/blogs/aws/sagemaker-tokyo-summit-2018/",
+        "description": "Today, at the AWS Summit in Tokyo we announced a number of updates and new features for . Starting today, SageMaker is available in ! SageMaker also now supports CloudFormation. A new machine learning framework, Chainer, is now available in the SageMaker Python SDK, in addition to MXNet and Tensorflow. Finally, support for running Chainer […]",
+        "title": "Amazon SageMaker Updates – Tokyo Region, CloudFormation, Chainer, and GreenGrass ML",
+        "date": "2018-05-31T18:35:33+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/05/29/neptune_01-1024x537.png",
+        "url": "https://aws.amazon.com/blogs/aws/amazon-neptune-generally-available/",
+        "description": "Amazon Neptune is now Generally Available in , , , and . is a fast, reliable, fully-managed graph database service that makes it easy to build and run applications that work with highly connected datasets. At the core of Neptune is a purpose-built, high-performance graph database engine optimized for storing billions of relationships and querying […]",
+        "title": "Amazon Neptune Generally Available",
+        "date": "2018-05-30T13:41:09+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/05/16/alb_real_auth_3-1024x822.png",
+        "url": "https://aws.amazon.com/blogs/aws/built-in-authentication-in-alb/",
+        "description": "Today I’m excited to announce built-in authentication support in Application Load Balancers (ALB). ALB can now securely authenticate users as they access applications, letting developers eliminate the code they have to write to support authentication and offload the responsibility of authentication from the backend. The team built a great live example where you can try […]",
+        "title": "Simplify Login with Application Load Balancer Built-in Authentication",
+        "date": "2018-05-30T13:28:54+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/05/09/Machine-Learning2_570x245.png",
+        "url": "https://aws.amazon.com/blogs/aws/introducing-the-aws-machine-learning-competency-for-consulting-partners/",
+        "description": "Today I’m excited to announce a new Machine Learning Competency for Consulting Partners in the AWS Partner Network (APN). This AWS Competency program allows APN Consulting Partners to demonstrate a deep expertise in machine learning on AWS by providing solutions that enable machine learning and data science workflows for their customers. This new AWS Competency […]",
+        "title": "Introducing the AWS Machine Learning Competency for Consulting Partners",
+        "date": "2018-05-10T02:37:34+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/04/30/iot_1-1024x935.png",
+        "url": "https://aws.amazon.com/blogs/aws/iot-analytics-now-generally-available/",
+        "description": "Today, I’m pleased to announce that, as of April 24th 2018, the AWS IoT Analytics service is generally available. Customers can use IoT Analytics to clean, process, encrich, store, and analyze their connected device data at scale. AWS IoT Analytics is now available in , , , and . In November of last year, my […]",
+        "title": "IoT Analytics Now Generally Available",
+        "date": "2018-05-01T10:32:53+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/03/23/bot_01.png",
+        "url": "https://aws.amazon.com/blogs/aws/new-bot-gtld-from-amazon/",
+        "description": "Today, I’m excited to announce the launch of .BOT, a new generic top-level domain (gTLD) from Amazon. Customers can use .BOT domains to provide an identity and portal for their bots. Fitness bots, slack bots, e-commerce bots, and more can all benefit from an easy-to-access .BOT domain. The phrase “bot” was the 4th most registered […]",
+        "title": "New .BOT gTLD from Amazon",
+        "date": "2018-04-24T13:29:55+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/04/03/ca_003-1024x615.png",
+        "url": "https://aws.amazon.com/blogs/aws/aws-certificate-manager-launches-private-certificate-authority/",
+        "description": "Today we’re launching a new feature for (ACM), Private Certificate Authority (CA). This new service allows ACM to act as a private subordinate CA. Previously, if a customer wanted to use private certificates, they needed specialized infrastructure and security expertise that could be expensive to maintain and operate. ACM Private CA builds on ACM’s existing […]",
+        "title": "AWS Certificate Manager Launches Private Certificate Authority",
+        "date": "2018-04-04T11:13:41+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/04/01/sm_1-1024x291.png",
+        "url": "https://aws.amazon.com/blogs/aws/aws-secrets-manager-store-distribute-and-rotate-credentials-securely/",
+        "description": "Today we’re launching AWS Secrets Manager which makes it easy to store and retrieve your secrets via API or the and rotate your credentials with built-in or custom functions. Managing application secrets like database credentials, passwords, or API Keys is easy when you’re working locally with one machine and one application. As you grow and […]",
+        "title": "AWS Secrets Manager: Store, Distribute, and Rotate Credentials Securely",
+        "date": "2018-04-04T11:05:14+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/04/03/2018-04-02_22-30-23.png",
+        "url": "https://aws.amazon.com/blogs/aws/amazon-transcribe-now-generally-available/",
+        "description": "At 2017 we launched Amazon Transcribe in private preview. Today we’re excited to make Amazon Transcribe generally available for all developers. Amazon Transcribe is an automatic speech recognition service (ASR) that makes it easy for developers to add speech to text capabilities to their applications. We’ve iterated on customer feedback in the preview to make […]",
+        "title": "Amazon Transcribe Now Generally Available",
+        "date": "2018-04-04T10:02:39+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/03/31/2018-03-31_16-01-08-1024x414.png",
+        "url": "https://aws.amazon.com/blogs/aws/amazon-translate-now-generally-available/",
+        "description": "Today we’re excited to make Amazon Translate generally available. Late last year at my colleague Tara Walker wrote about a preview of a new AI service, . Starting today you can access Amazon Translate in , , , and with a 2 million character monthly free tier for the first 12 months and $15 per […]",
+        "title": "Amazon Translate Now Generally Available",
+        "date": "2018-04-04T10:02:16+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/04/03/IconOnly.png",
+        "url": "https://aws.amazon.com/blogs/aws/amazon-sagemaker-roundup-sf/",
+        "description": "Amazon SageMaker continues to iterate quickly and release new features on behalf of customers. Starting today, SageMaker adds support for many new instance types, local testing with the SDK, and Apache MXNet 1.1.0 and Tensorflow 1.6.0. Let’s take a quick look at each of these updates. New Instance Types Amazon SageMaker customers now have additional […]",
+        "title": "Amazon SageMaker Now Supports Additional Instance Types, Local Mode, Open Sourced Containers, MXNet and Tensorflow Updates",
+        "date": "2018-04-04T10:02:03+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/03/28/ECS-Service-Discovery-1024x865.png",
+        "url": "https://aws.amazon.com/blogs/aws/amazon-ecs-service-discovery/",
+        "description": "now includes integrated service discovery. This makes it possible for an ECS service to automatically register itself with a predictable and friendly DNS name in . As your services scale up or down in response to load or container health, the Route 53 hosted zone is kept up to date, allowing other services to lookup […]",
+        "title": "Amazon ECS Service Discovery",
+        "date": "2018-03-28T11:10:00+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/03/18/ddb_4-1024x815.png",
+        "url": "https://aws.amazon.com/blogs/aws/new-amazon-dynamodb-continuous-backups-and-point-in-time-recovery-pitr/",
+        "description": "The team is back with another useful feature hot on the heels of encryption at rest. At 2017 we launched global tables and on-demand backup and restore of your DynamoDB tables and today we’re launching continuous backups with point-in-time recovery (PITR). You can enable continuous backups with a single click in the , a simple […]",
+        "title": "New – Amazon DynamoDB Continuous Backups and Point-In-Time Recovery (PITR)",
+        "date": "2018-03-26T17:13:44+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/03/22/march_madness-1024x463.png",
+        "url": "https://aws.amazon.com/blogs/aws/march-machine-learning-madness/",
+        "description": "Mid-march in the USA means millions of people watching, and betting on, college basketball (I live here but I didn’t make the rules). As the NCAA college championship continues I wanted to briefly highlight the work of Wesley Pasfield one of our Professional Services Machine Learning Specialists. Wesley was able to take data from kenpom.com […]",
+        "title": "March Machine Learning Madness!",
+        "date": "2018-03-26T10:01:10+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/03/20/kinesis_7-1-1024x721.png",
+        "url": "https://aws.amazon.com/blogs/aws/real-time-hotspot-detection-in-amazon-kinesis-analytics/",
+        "description": "Today we’re releasing a new machine learning feature in Amazon Kinesis Data Analytics for detecting “hotspots” in your streaming data. We launched Kinesis Data Analytics in August of 2016 and we’ve continued to add features since. As you may already know, Kinesis Data Analytics is a fully managed real-time processing engine for streaming data that […]",
+        "title": "Real-Time Hotspot Detection in Amazon Kinesis Analytics",
+        "date": "2018-03-20T14:12:22+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2017/11/22/cloud9_collab.png",
+        "url": "https://aws.amazon.com/blogs/aws/aws-cloud9-cloud-developer-environments/",
+        "description": "One of the first things you learn when you start programming is that, just like any craftsperson, your tools matter. Notepad.exe isn’t going to cut it. A powerful editor and testing pipeline supercharge your productivity. I still remember learning to use Vim for the first time and being able to zip around systems and complex […]",
+        "title": "AWS Cloud9 – Cloud Developer Environments",
+        "date": "2017-11-30T09:27:49+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2017/11/30/ntp_console-1.png",
+        "url": "https://aws.amazon.com/blogs/aws/keeping-time-with-amazon-time-sync-service/",
+        "description": "Today we’re launching Amazon Time Sync Service, a time synchronization service delivered over Network Time Protocol (NTP) which uses a fleet of redundant satellite-connected and atomic clocks in each region to deliver a highly accurate reference clock. This service is provided at no additional charge and is immediately available in all public AWS regions to […]",
+        "title": "Keeping Time With Amazon Time Sync Service",
+        "date": "2017-11-29T17:17:14+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2017/11/30/console_first_shot-1.png",
+        "url": "https://aws.amazon.com/blogs/aws/aws-systems-manager/",
+        "description": "AWS Systems Manager is a new way to manage your cloud and hybrid IT environments. AWS Systems Manager provides a unified user interface that simplifies resource and application management, shortens the time to detect and resolve operational problems, and makes it easy to operate and manage your infrastructure securely at scale. This service is absolutely […]",
+        "title": "AWS Systems Manager – A Unified Interface for Managing Your Cloud and Hybrid Resources",
+        "date": "2017-11-29T12:03:48+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2017/11/24/transcribe_console_1.png",
+        "url": "https://aws.amazon.com/blogs/aws/amazon-transcribe-scalable-and-accurate-automatic-speech-recognition/",
+        "description": "Today we’re launching a private preview of Amazon Transcribe, an automatic speech recognition (ASR) service that makes it easy for developers to add speech to text capabilities to their applications. As bandwidth and connectivity improve, more and more of the world’s data is stored in video and audio formats. People are creating and consuming all of […]",
+        "title": "Amazon Transcribe – Accurate Speech To Text At Scale",
+        "date": "2017-11-29T10:02:22+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2017/11/29/sagemaker_3-1.png",
+        "url": "https://aws.amazon.com/blogs/aws/sagemaker/",
+        "description": "Machine Learning is a pivotal technology for many startups and enterprises. Despite decades of investment and improvements, the process of developing, training, and maintaining machine learning models has still been cumbersome and ad-hoc. The process of incorporating machine learning into an application often involves a team of experts tuning and tinkering for months with inconsistent […]",
+        "title": "Amazon SageMaker – Accelerating Machine Learning",
+        "date": "2017-11-29T09:34:15+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2017/11/29/s3_select-1.png",
+        "url": "https://aws.amazon.com/blogs/aws/s3-glacier-select/",
+        "description": "stores data for millions of applications used by market leaders in every industry. Many of these customers also use for secure, durable, and extremely low-cost archival storage. With S3, I can store as many objects as I want and individual objects can be as large as 5 terabytes. Data in object storage have traditionally been […]",
+        "title": "S3 Select and Glacier Select – Retrieving Subsets of Objects",
+        "date": "2017-11-29T09:21:33+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2017/11/29/nept.png",
+        "url": "https://aws.amazon.com/blogs/aws/amazon-neptune-a-fully-managed-graph-database-service/",
+        "description": "Of all the data structures and algorithms we use to enable our modern lives, graphs are changing the world everyday. Businesses continuously create and ingest rich data with complex relationships. Yet developers are still forced to model these complex relationships in traditional databases. This leads to frustratingly complex queries with high costs and increasingly poor […]",
+        "title": "Amazon Neptune – A Fully Managed Graph Database Service",
+        "date": "2017-11-29T08:57:02+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2017/12/01/stuff.png",
+        "url": "https://aws.amazon.com/blogs/aws/aws-fargate/",
+        "description": "Containers are a powerful way for developers to develop, package, and deploy their applications. At AWS we have over a hundred thousand active ECS clusters and hundreds of millions of new containers started each week. That’s 400+% customer growth since 2016. Container orchestration solutions, like and Kubernetes make it easier to deploy, manage, and scale these […]",
+        "title": "Introducing AWS Fargate – Run Containers without Managing Infrastructure",
+        "date": "2017-11-29T08:33:01+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2017/11/17/puppet_fi-1024x521.png",
+        "url": "https://aws.amazon.com/blogs/aws/new-aws-opsworks-for-puppet-enterprise/",
+        "description": "At last year’s AWS re:Invent we launched AWS OpsWorks for Chef Automate which enabled customers to get their own Chef Automate server, managed by AWS. Building on customer feedback we’re excited to bring Puppet Enterprise to OpsWorks today. Puppet Enterprise allows you to automate provisioning, configuring, and managing instances through a puppet-agent deployed on each […]",
+        "title": "New – AWS OpsWorks for Puppet Enterprise",
+        "date": "2017-11-16T10:44:40+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0-768x384.png",
+        "url": "https://aws.amazon.com/blogs/aws/amazon-elasticsearch-service-now-supports-vpc/",
+        "description": "Starting today, you can connect to your Amazon Elasticsearch Service domains from within an Amazon VPC without the need for NAT instances or Internet gateways. VPC support for Amazon ES is easy to configure, reliable, and offers an extra layer of security. With VPC support, traffic between other services and Amazon ES stays entirely within […]",
+        "title": "Amazon Elasticsearch Service now supports VPC",
+        "date": "2017-10-17T11:40:49+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0-768x384.png",
+        "url": "https://aws.amazon.com/blogs/aws/new-application-load-balancer-sni/",
+        "description": "Today we’re launching support for multiple TLS/SSL certificates on Application Load Balancers (ALB) using Server Name Indication (SNI). You can now host multiple TLS secured applications, each with its own TLS certificate, behind a single load balancer. In order to use SNI, all you need to do is bind multiple certificates to the same secure […]",
+        "title": "Application Load Balancers Now Support Multiple TLS Certificates With Smart Selection Using SNI",
+        "date": "2017-10-10T11:29:41+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0-768x384.png",
+        "url": "https://aws.amazon.com/blogs/aws/aws-pinpoint-launches-two-way-text-messaging/",
+        "description": "Last week launched AWS Global SMS two-way text messaging and we didn’t get an opportunity to cover the launch. AWS Pinpoint users can now programmaticaly respond to their end-users’ text messages. Users can provision both short codes and long codes (10-digit phone numbers) which send inbound messages to an SNS topic. Let’s take a look. […]",
+        "title": "Amazon Pinpoint Launches Two-Way Text Messaging",
+        "date": "2017-09-26T10:59:30+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0-768x384.png",
+        "url": "https://aws.amazon.com/blogs/aws/amazon-aurora-fast-database-cloning/",
+        "description": "Today, I want to quickly show off a feature of that I find incredibly useful: Fast Database Cloning. By taking advantage of Aurora’s underlying distributed storage engine you’re able to quickly and cheaply create a copy-on-write clone of your database. In my career I’ve frequently spent time waiting on some representative sample of data to […]",
+        "title": "Amazon Aurora Fast Database Cloning",
+        "date": "2017-08-30T11:39:19+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0-768x384.png",
+        "url": "https://aws.amazon.com/blogs/aws/new-ec2-elastic-gpus-for-windows/",
+        "description": "Today we’re excited to announce the general availability of Amazon EC2 Elastic GPUs for Windows. An Elastic GPU is a GPU resource that you can attach to your instance to accelerate the graphics performance of your applications. Elastic GPUs come in medium (1GB), large (2GB), xlarge (4GB), and 2xlarge (8GB) sizes and are lower cost […]",
+        "title": "New – Amazon EC2 Elastic GPUs for Windows",
+        "date": "2017-08-29T17:27:39+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0-768x384.png",
+        "url": "https://aws.amazon.com/blogs/aws/new-ses-dedicated-ip-pools/",
+        "description": "Today we released Dedicated IP Pools for . With dedicated IP pools, you can specify which dedicated IP addresses to use for sending different types of email. Dedicated IP pools let you use your SES for different tasks. For instance, you can send transactional emails from one set of IPs and you can send marketing […]",
+        "title": "New – SES Dedicated IP Pools",
+        "date": "2017-08-18T12:55:49+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/05/14/ddb-no-vpc-endpoint-1024x561-1024x561.png",
+        "url": "https://aws.amazon.com/blogs/aws/new-vpc-endpoints-for-dynamodb/",
+        "description": "Starting today (VPC) Endpoints for are available in all public AWS regions. You can provision an endpoint right away using the or the . There are no additional costs for a VPC Endpoint for DynamoDB. Many AWS customers run their applications within a (VPC) for security or isolation reasons. Previously, if you wanted your EC2 […]",
+        "title": "New – VPC Endpoints for DynamoDB",
+        "date": "2017-08-16T13:48:05+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0-768x384.png",
+        "url": "https://aws.amazon.com/blogs/aws/launch-aws-glue-now-generally-available/",
+        "description": "Today we’re excited to announce the general availability of . is a fully managed, serverless, and cloud-optimized extract, transform and load (ETL) service. is different from other ETL services and platforms in a few very important ways. First, is “serverless” – you don’t need to provision or manage any resources and you only pay for […]",
+        "title": "Launch – AWS Glue Now Generally Available",
+        "date": "2017-08-14T08:49:19+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0-768x384.png",
+        "url": "https://aws.amazon.com/blogs/aws/new-aws-sam-local-beta-build-and-test-serverless-applications-locally/",
+        "description": "Today we’re releasing a beta of a new tool, , that makes it easy to build and test your serverless applications locally. In this post we’ll use SAM local to build, debug, and deploy a quick application that allows us to vote on tabs or spaces by curling an endpoint. AWS introduced (SAM) last year […]",
+        "title": "New – AWS SAM Local (Beta) – Build and Test Serverless Applications Locally",
+        "date": "2017-08-11T09:52:39+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0-768x384.png",
+        "url": "https://aws.amazon.com/blogs/aws/new-amazon-connect-and-amazon-lex-integration/",
+        "description": "I’m really excited to share some recent enhancements to two of my favorite services: Amazon Connect and Amazon Lex. is a self-service, cloud-based contact center service that makes it easy for any business to deliver better customer service at lower cost. is a service for building conversational interfaces using voice and text. By integrating these […]",
+        "title": "New – Amazon Connect and Amazon Lex Integration",
+        "date": "2017-08-03T13:48:43+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0-768x384.png",
+        "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-systems-manager-patch-manager-now-supports-linux/",
+        "description": "Hot on the heels of some other great updates is another vital enhancement: the ability to use Patch Manager on Linux instances! We launched Patch Manager with SSM at re:Invent in 2016 and Linux support was a commonly requested feature. Starting today we can support patch manager in: Amazon Linux 2014.03 and later (2015.03 and […]",
+        "title": "Amazon EC2 Systems Manager Patch Manager now supports Linux",
+        "date": "2017-07-07T11:56:07+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0-768x384.png",
+        "url": "https://aws.amazon.com/blogs/aws/latency-distribution-graph-in-aws-x-ray/",
+        "description": "We’re continuing to iterate on the service based on customer feedback and today we’re excited to release a set of tools to help you quickly dive deep on latencies in your applications. Visual Node and Edge latency distribution graphs are shown in a handy new “Service Details” side bar in your X-Ray Service Map. The […]",
+        "title": "Latency Distribution Graph in AWS X-Ray",
+        "date": "2017-06-14T11:30:58+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0-768x384.png",
+        "url": "https://aws.amazon.com/blogs/aws/aws-lambda-support-for-aws-x-ray/",
+        "description": "Today we’re announcing general availability of support for . As you may already know from Jeff’s GA POST, X-Ray is an AWS service for analyzing the execution and performance behavior of distributed applications. Traditional debugging methods don’t work so well for microservice based applications, in which there are multiple, independent components running on different services. […]",
+        "title": "AWS Lambda Support for AWS X-Ray",
+        "date": "2017-05-16T11:18:50+00:00"
+    },
+    {
+        "image": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0-768x384.png",
+        "url": "https://aws.amazon.com/blogs/aws/new-amazon-emr-instance-fleets/",
+        "description": "Today we’re excited to introduce a new feature for  clusters called instance fleets. Instance fleets gives you a wider variety of options and intelligence around instance provisioning. You can now provide a list of up to 5 instance types with corresponding weighted capacities and spot bid prices (including spot blocks)! EMR will automatically provision On-Demand […]",
+        "title": "New – Amazon EMR Instance Fleets",
+        "date": "2017-03-21T11:00:53+00:00"
+    }
+]
